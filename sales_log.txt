@@ -1,0 +1,2 @@
+Total sales today: $12,345.
+Number of transactions: 123.
